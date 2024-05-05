@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khactrungphamteo
 - 👀 I’m interested in web and mobile aps development
-- 🌱 I’m currently learning JavaScript and React JS framwork
 - 💞️ I’m looking to collaborate on web apps development. 
 - 📫 How to reach me: trungteo0707@gmail.com
 
